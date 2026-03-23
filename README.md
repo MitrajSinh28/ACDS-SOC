@@ -64,3 +64,9 @@ Autonomous-Cyber-Defense-System/
 │
 └── .gitignore
 
+🖥️ SYSTEM REQUIREMENTS
+Component	Requirement
+OS	Ubuntu 22.04 LTS
+RAM	Minimum 8 GB (4 GB workable)
+Disk	40 GB
+User	sudo access
