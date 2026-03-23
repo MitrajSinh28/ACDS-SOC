@@ -1,0 +1,9 @@
+timestamp,user,action
+
+2025-01-01 10:00:00,admin,success
+
+2025-01-01 10:05:00,guest,fail
+
+2025-01-01 10:06:00,guest,fail
+
+2025-01-01 10:07:00,admin,success
